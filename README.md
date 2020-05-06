@@ -10,7 +10,15 @@ In our main class, named MDP, the user can specify the particular character asso
 * ‘v’ = Value Iteration
 * ‘p’ = Policy Iteration
 
+# Built Using
+
+* Java
+* BlueJ
+
 # Authors
 * Anaïs Sarrazin
 * Adrienne Miller
+
+# Acknowledgements
+* Professor Majercik 
 
